@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  background-color: rgb(243, 243, 243);
+}
+
+header {
+  background-color: rgb(255, 255, 255);
+  position: fixed;
+  height: 6vh;
+  width: 100%;
+}
+
+main {
+  position: absolute;
+  top: 6%;
+  left: 2%;
+}
+
+#header-img {
+  position: absolute;
+  top: 20%;
+  left: 1%;
+  height: 60%;
+  width: auto;
+  background-color: aquamarine;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+}
+
+nav a {
+  position: relative;
+  width: 10%;
+  margin-right: 10%;
+  background-color: pink;
+}
+
+nav {
+  position: absolute;
+  height: 60%;
+  top: 20%;
+  width: 80%;
+  left: 20%;
+}
